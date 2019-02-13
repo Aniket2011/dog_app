@@ -17,10 +17,13 @@ git clone https://github.com/udacity/dog-project.git
 cd dog-project
 
 - Download the dog dataset. Unzip the folder and place it in the repo, at location ../../../data/dog_images.
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
-- Download the human dataset. Unzip the folder and place it in the repo, at location ../../../data/dog_images/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+- Download the human dataset. Unzip the folder and place it in the repo, at location ../../../data/dog_images/lfw. 
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
 - Donwload the VGG-16 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 
 - Change the dog-app.ipynb in the dog-project folder to new file from https://github.com/Aniket2011/dog_app repository
 
