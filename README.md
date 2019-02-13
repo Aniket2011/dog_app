@@ -12,13 +12,18 @@ If supplied an image of a human, the code will identify the resembling dog breed
 
 - Clone the repository and navigate to the downloaded folder.
 
-git clone https://github.com/Aniket2011/dog_app
+git clone https://github.com/udacity/dog-project.git
 
 cd dog-project
 
-- Download the dog dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
+- Download the dog dataset. Unzip the folder and place it in the repo, at location ../../../data/dog_images.
 
-- Download the human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+- Download the human dataset. Unzip the folder and place it in the repo, at location ../../../data/dog_images/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
 
 - Donwload the VGG-16 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
+
+- Change the dog-app.ipynb in the dog-project folder to new file from https://github.com/Aniket2011/dog_app repository
+
+- setup the requirements  for the project installing using pip 
+
 
